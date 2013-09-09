@@ -16,7 +16,12 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
-    aboutyou* controller = [[aboutyou alloc] init];
+    UIViewController* controller = [[UIViewController alloc] init];
+
+    UIView *firstViewUIView = [[[NSBundle mainBundle] loadNibNamed:@"aboutyou"
+                                                             owner:self options:nil] objectAtIndex:0];
+    [controller.view addSubview:firstViewUIView];
+
     self.window.rootViewController = controller;
     [self.window makeKeyAndVisible];
     return YES;
