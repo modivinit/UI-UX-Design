@@ -26,7 +26,6 @@
 		9E821DF017CFA778007DC9BE /* kcatintro-lifestyle.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E821DEF17CFA778007DC9BE /* kcatintro-lifestyle.xib */; };
 		9E821DF217CFA822007DC9BE /* kcatintro-rvb.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E821DF117CFA822007DC9BE /* kcatintro-rvb.xib */; };
 		9E821DF417CFAA92007DC9BE /* aboutyou.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E821DF317CFAA92007DC9BE /* aboutyou.xib */; };
-		9E8F7F9817D8FC26007C174A /* kcatintro-with-image.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E8F7F9717D8FC26007C174A /* kcatintro-with-image.xib */; };
 		9E8F7F9F17D8FEEC007C174A /* kcat-intro.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E8F7F9D17D8FEEC007C174A /* kcat-intro.png */; };
 		9E8F7FA017D8FEEC007C174A /* kcat-intro@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E8F7F9E17D8FEEC007C174A /* kcat-intro@2x.png */; };
 		9E92962517D10D1700B3DC44 /* homeinfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E92962417D10D1700B3DC44 /* homeinfo.xib */; };
@@ -46,6 +45,16 @@
 		9E9C805517DB02DF004D8669 /* forward-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805317DB02DF004D8669 /* forward-icon@2x.png */; };
 		9E9C805817DB02EB004D8669 /* back-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805617DB02EB004D8669 /* back-icon.png */; };
 		9E9C805917DB02EB004D8669 /* back-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805717DB02EB004D8669 /* back-icon@2x.png */; };
+		9ED884ED17DE67A500EA0651 /* lifestyle-sports.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884EB17DE67A500EA0651 /* lifestyle-sports.png */; };
+		9ED884EE17DE67A500EA0651 /* lifestyle-sports@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884EC17DE67A500EA0651 /* lifestyle-sports@2x.png */; };
+		9ED884F117DE680A00EA0651 /* lifestyle-shopping.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884EF17DE680A00EA0651 /* lifestyle-shopping.png */; };
+		9ED884F217DE680A00EA0651 /* lifestyle-shopping@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884F017DE680A00EA0651 /* lifestyle-shopping@2x.png */; };
+		9ED884F917DE690500EA0651 /* lifestyle-music.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884F717DE690500EA0651 /* lifestyle-music.png */; };
+		9ED884FA17DE690500EA0651 /* lifestyle-music@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884F817DE690500EA0651 /* lifestyle-music@2x.png */; };
+		9ED8850517DE6AD800EA0651 /* lifestyle-food.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED8850317DE6AD800EA0651 /* lifestyle-food.png */; };
+		9ED8850617DE6AD800EA0651 /* lifestyle-food@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED8850417DE6AD800EA0651 /* lifestyle-food@2x.png */; };
+		9ED8850917DE6D8700EA0651 /* surfing.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED8850717DE6D8700EA0651 /* surfing.png */; };
+		9ED8850A17DE6D8700EA0651 /* surfing@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED8850817DE6D8700EA0651 /* surfing@2x.png */; };
 		9EECBB6C17DD968800EA2E6A /* rent.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB6A17DD968800EA2E6A /* rent.png */; };
 		9EECBB6D17DD968800EA2E6A /* rent@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB6B17DD968800EA2E6A /* rent@2x.png */; };
 		9EECBB7017DD971C00EA2E6A /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB6E17DD971C00EA2E6A /* car.png */; };
@@ -90,7 +99,7 @@
 		9EFF2A0517CF0B91007F3D10 /* kcatTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFF2A0417CF0B91007F3D10 /* kcatTests.m */; };
 		9EFF2A0F17CF0BCA007F3D10 /* signup.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A0E17CF0BCA007F3D10 /* signup.xib */; };
 		9EFF2A1117CF118B007F3D10 /* signin.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A1017CF118B007F3D10 /* signin.xib */; };
-		9EFF2A1317CF15CC007F3D10 /* kcatintro-xcode-native.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A1217CF15CC007F3D10 /* kcatintro-xcode-native.xib */; };
+		9EFF2A1317CF15CC007F3D10 /* kcatintro.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A1217CF15CC007F3D10 /* kcatintro.xib */; };
 		9EFF2A3A17CF29E4007F3D10 /* kcatintro-tax.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A3917CF29E4007F3D10 /* kcatintro-tax.xib */; };
 		9EFF2A3D17CF2D55007F3D10 /* appname.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A3B17CF2D55007F3D10 /* appname.png */; };
 		9EFF2A3E17CF2D55007F3D10 /* appname@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A3C17CF2D55007F3D10 /* appname@2x.png */; };
@@ -126,7 +135,6 @@
 		9E821DEF17CFA778007DC9BE /* kcatintro-lifestyle.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-lifestyle.xib"; sourceTree = "<group>"; };
 		9E821DF117CFA822007DC9BE /* kcatintro-rvb.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-rvb.xib"; sourceTree = "<group>"; };
 		9E821DF317CFAA92007DC9BE /* aboutyou.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = aboutyou.xib; sourceTree = "<group>"; };
-		9E8F7F9717D8FC26007C174A /* kcatintro-with-image.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-with-image.xib"; sourceTree = "<group>"; };
 		9E8F7F9D17D8FEEC007C174A /* kcat-intro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kcat-intro.png"; sourceTree = "<group>"; };
 		9E8F7F9E17D8FEEC007C174A /* kcat-intro@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kcat-intro@2x.png"; sourceTree = "<group>"; };
 		9E92962417D10D1700B3DC44 /* homeinfo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = homeinfo.xib; sourceTree = "<group>"; };
@@ -147,6 +155,16 @@
 		9E9C805317DB02DF004D8669 /* forward-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "forward-icon@2x.png"; sourceTree = "<group>"; };
 		9E9C805617DB02EB004D8669 /* back-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon.png"; sourceTree = "<group>"; };
 		9E9C805717DB02EB004D8669 /* back-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon@2x.png"; sourceTree = "<group>"; };
+		9ED884EB17DE67A500EA0651 /* lifestyle-sports.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-sports.png"; sourceTree = "<group>"; };
+		9ED884EC17DE67A500EA0651 /* lifestyle-sports@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-sports@2x.png"; sourceTree = "<group>"; };
+		9ED884EF17DE680A00EA0651 /* lifestyle-shopping.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-shopping.png"; sourceTree = "<group>"; };
+		9ED884F017DE680A00EA0651 /* lifestyle-shopping@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-shopping@2x.png"; sourceTree = "<group>"; };
+		9ED884F717DE690500EA0651 /* lifestyle-music.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-music.png"; sourceTree = "<group>"; };
+		9ED884F817DE690500EA0651 /* lifestyle-music@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-music@2x.png"; sourceTree = "<group>"; };
+		9ED8850317DE6AD800EA0651 /* lifestyle-food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-food.png"; sourceTree = "<group>"; };
+		9ED8850417DE6AD800EA0651 /* lifestyle-food@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-food@2x.png"; sourceTree = "<group>"; };
+		9ED8850717DE6D8700EA0651 /* surfing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = surfing.png; sourceTree = "<group>"; };
+		9ED8850817DE6D8700EA0651 /* surfing@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "surfing@2x.png"; sourceTree = "<group>"; };
 		9EECBB6A17DD968800EA2E6A /* rent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rent.png; sourceTree = "<group>"; };
 		9EECBB6B17DD968800EA2E6A /* rent@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rent@2x.png"; sourceTree = "<group>"; };
 		9EECBB6E17DD971C00EA2E6A /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car.png; sourceTree = "<group>"; };
@@ -195,7 +213,7 @@
 		9EFF2A0417CF0B91007F3D10 /* kcatTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kcatTests.m; sourceTree = "<group>"; };
 		9EFF2A0E17CF0BCA007F3D10 /* signup.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = signup.xib; sourceTree = "<group>"; };
 		9EFF2A1017CF118B007F3D10 /* signin.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = signin.xib; sourceTree = "<group>"; };
-		9EFF2A1217CF15CC007F3D10 /* kcatintro-xcode-native.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-xcode-native.xib"; sourceTree = "<group>"; };
+		9EFF2A1217CF15CC007F3D10 /* kcatintro.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = kcatintro.xib; sourceTree = "<group>"; };
 		9EFF2A3917CF29E4007F3D10 /* kcatintro-tax.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-tax.xib"; sourceTree = "<group>"; };
 		9EFF2A3B17CF2D55007F3D10 /* appname.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appname.png; sourceTree = "<group>"; };
 		9EFF2A3C17CF2D55007F3D10 /* appname@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "appname@2x.png"; sourceTree = "<group>"; };
@@ -231,8 +249,7 @@
 				9EFF2A1417CF165B007F3D10 /* images */,
 				9EFF2A0E17CF0BCA007F3D10 /* signup.xib */,
 				9EFF2A1017CF118B007F3D10 /* signin.xib */,
-				9EFF2A1217CF15CC007F3D10 /* kcatintro-xcode-native.xib */,
-				9E8F7F9717D8FC26007C174A /* kcatintro-with-image.xib */,
+				9EFF2A1217CF15CC007F3D10 /* kcatintro.xib */,
 				9E821DEF17CFA778007DC9BE /* kcatintro-lifestyle.xib */,
 				9EFF2A3917CF29E4007F3D10 /* kcatintro-tax.xib */,
 				9E821DF117CFA822007DC9BE /* kcatintro-rvb.xib */,
@@ -375,6 +392,16 @@
 				9E718D7317DE5E1900291228 /* lifestyle-beach@2x.png */,
 				9EFF2A3B17CF2D55007F3D10 /* appname.png */,
 				9EFF2A3C17CF2D55007F3D10 /* appname@2x.png */,
+				9ED884EB17DE67A500EA0651 /* lifestyle-sports.png */,
+				9ED884EC17DE67A500EA0651 /* lifestyle-sports@2x.png */,
+				9ED884EF17DE680A00EA0651 /* lifestyle-shopping.png */,
+				9ED884F017DE680A00EA0651 /* lifestyle-shopping@2x.png */,
+				9ED884F717DE690500EA0651 /* lifestyle-music.png */,
+				9ED884F817DE690500EA0651 /* lifestyle-music@2x.png */,
+				9ED8850317DE6AD800EA0651 /* lifestyle-food.png */,
+				9ED8850417DE6AD800EA0651 /* lifestyle-food@2x.png */,
+				9ED8850717DE6D8700EA0651 /* surfing.png */,
+				9ED8850817DE6D8700EA0651 /* surfing@2x.png */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -464,8 +491,10 @@
 				9EECBB8D17DD9FF200EA2E6A /* besthomefeature@2x.png in Resources */,
 				9EECBB7417DD977500EA2E6A /* otherexpenses.png in Resources */,
 				9E8F7F9F17D8FEEC007C174A /* kcat-intro.png in Resources */,
+				9ED884FA17DE690500EA0651 /* lifestyle-music@2x.png in Resources */,
 				9EFF2A0F17CF0BCA007F3D10 /* signup.xib in Resources */,
 				9EFF29EA17CF0B91007F3D10 /* InfoPlist.strings in Resources */,
+				9ED884F217DE680A00EA0651 /* lifestyle-shopping@2x.png in Resources */,
 				9EECBB8C17DD9FF200EA2E6A /* besthomefeature.png in Resources */,
 				9E92962517D10D1700B3DC44 /* homeinfo.xib in Resources */,
 				9EECBB7C17DD9ACF00EA2E6A /* condo.png in Resources */,
@@ -478,7 +507,7 @@
 				9E97F17B17DACC98006381AE /* menu.png in Resources */,
 				9E718D7417DE5E1900291228 /* lifestyle-beach.png in Resources */,
 				9E42213417D464F100F18A5C /* loaninfo.xib in Resources */,
-				9E8F7F9817D8FC26007C174A /* kcatintro-with-image.xib in Resources */,
+				9ED884F117DE680A00EA0651 /* lifestyle-shopping.png in Resources */,
 				9E9C804C17DAF932004D8669 /* savings@2X.png in Resources */,
 				9EECBB9817DDA44800EA2E6A /* street.png in Resources */,
 				9E108AA317D05CFF0071AAF4 /* help@2x.png in Resources */,
@@ -490,8 +519,9 @@
 				9E821DF017CFA778007DC9BE /* kcatintro-lifestyle.xib in Resources */,
 				9EECBBA017DDA72A00EA2E6A /* downpayment.png in Resources */,
 				9E718D6D17DE5CE400291228 /* sfh@2x.png in Resources */,
+				9ED8850A17DE6D8700EA0651 /* surfing@2x.png in Resources */,
 				9E718D6817DE5A4C00291228 /* couple-dashboard.png in Resources */,
-				9EFF2A1317CF15CC007F3D10 /* kcatintro-xcode-native.xib in Resources */,
+				9EFF2A1317CF15CC007F3D10 /* kcatintro.xib in Resources */,
 				9EECBB8117DD9B9500EA2E6A /* hoa@2x.png in Resources */,
 				9EECBB7017DD971C00EA2E6A /* car.png in Resources */,
 				9EFF29F217CF0B91007F3D10 /* Images.xcassets in Resources */,
@@ -503,11 +533,14 @@
 				9EECBBA417DDA7F800EA2E6A /* interestrate.png in Resources */,
 				9EECBB9017DDA16F00EA2E6A /* couple.png in Resources */,
 				9EECBBA917DDA87800EA2E6A /* loantime@2x.png in Resources */,
+				9ED884ED17DE67A500EA0651 /* lifestyle-sports.png in Resources */,
 				9E108AA217D05CFF0071AAF4 /* help.png in Resources */,
 				9EFF2A3D17CF2D55007F3D10 /* appname.png in Resources */,
 				9EECBB6C17DD968800EA2E6A /* rent.png in Resources */,
+				9ED884EE17DE67A500EA0651 /* lifestyle-sports@2x.png in Resources */,
 				9E718D7117DE5D9B00291228 /* compare@2x.png in Resources */,
 				9EECBBA117DDA72A00EA2E6A /* downpayment@2x.png in Resources */,
+				9ED8850517DE6AD800EA0651 /* lifestyle-food.png in Resources */,
 				9EECBB7917DD9A1C00EA2E6A /* sfh-homeinfo@2x.png in Resources */,
 				9E821DF217CFA822007DC9BE /* kcatintro-rvb.xib in Resources */,
 				9EECBB8917DD9C7600EA2E6A /* homeprice@2x.png in Resources */,
@@ -516,7 +549,9 @@
 				9E9C803B17DAF41C004D8669 /* children.png in Resources */,
 				9E718D6917DE5A4C00291228 /* couple-dashboard@2x.png in Resources */,
 				9E821DF417CFAA92007DC9BE /* aboutyou.xib in Resources */,
+				9ED884F917DE690500EA0651 /* lifestyle-music.png in Resources */,
 				9E9C805417DB02DF004D8669 /* forward-icon.png in Resources */,
+				9ED8850617DE6AD800EA0651 /* lifestyle-food@2x.png in Resources */,
 				9EECBB9517DDA1BB00EA2E6A /* single@2x.png in Resources */,
 				9E8F7FA017D8FEEC007C174A /* kcat-intro@2x.png in Resources */,
 				9E718D7017DE5D9B00291228 /* compare.png in Resources */,
@@ -527,6 +562,7 @@
 				9EECBB8017DD9B9500EA2E6A /* hoa.png in Resources */,
 				9EECBB7D17DD9ACF00EA2E6A /* condo@2x.png in Resources */,
 				9EECBB8817DD9C7600EA2E6A /* homeprice.png in Resources */,
+				9ED8850917DE6D8700EA0651 /* surfing.png in Resources */,
 				9EECBB9417DDA1BB00EA2E6A /* single.png in Resources */,
 				9EECBB7117DD971C00EA2E6A /* car@2x.png in Resources */,
 				9E718D6C17DE5CE400291228 /* sfh.png in Resources */,

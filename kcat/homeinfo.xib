@@ -20,6 +20,7 @@
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GC4-1c-9E6">
                     <rect key="frame" x="20" y="460" width="70" height="33"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
                     <state key="normal" title="Address"/>
                 </button>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="dashboard.png" translatesAutoresizingMaskIntoConstraints="NO" id="L7W-Mw-Sry">
@@ -224,6 +225,6 @@
         <image name="homeprice.png" width="29" height="29"/>
         <image name="menu.png" width="25" height="20"/>
         <image name="sfh-homeinfo.png" width="40" height="40"/>
-        <image name="sfh.png" width="50" height="55"/>
+        <image name="sfh.png" width="45" height="50"/>
     </resources>
 </document>
