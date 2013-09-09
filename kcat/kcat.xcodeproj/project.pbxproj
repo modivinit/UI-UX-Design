@@ -14,19 +14,7 @@
 		9E108AAD17D0600F0071AAF4 /* monthlyexpenses.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AAC17D0600F0071AAF4 /* monthlyexpenses.xib */; };
 		9E108AB017D064D10071AAF4 /* lifestyle-beach.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AAE17D064D10071AAF4 /* lifestyle-beach.png */; };
 		9E108AB117D064D10071AAF4 /* lifestyle-beach@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AAF17D064D10071AAF4 /* lifestyle-beach@2x.png */; };
-		9E108ABC17D06FE40071AAF4 /* otherexpenses.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108ABA17D06FE40071AAF4 /* otherexpenses.png */; };
-		9E108ABD17D06FE40071AAF4 /* otherexpenses@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108ABB17D06FE40071AAF4 /* otherexpenses@2x.png */; };
-		9E108AC017D071EF0071AAF4 /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108ABE17D071EF0071AAF4 /* car.png */; };
-		9E108AC117D071EF0071AAF4 /* car@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108ABF17D071EF0071AAF4 /* car@2x.png */; };
-		9E108AC417D073BB0071AAF4 /* rent.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AC217D073BB0071AAF4 /* rent.png */; };
-		9E108AC517D073BB0071AAF4 /* rent@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AC317D073BB0071AAF4 /* rent@2x.png */; };
 		9E42213417D464F100F18A5C /* loaninfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213317D464F100F18A5C /* loaninfo.xib */; };
-		9E42213717D468BD00F18A5C /* downpayment.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213517D468BD00F18A5C /* downpayment.png */; };
-		9E42213817D468BD00F18A5C /* downpayment@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213617D468BD00F18A5C /* downpayment@2x.png */; };
-		9E42213B17D46A7300F18A5C /* interestrate.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213917D46A7300F18A5C /* interestrate.png */; };
-		9E42213C17D46A7300F18A5C /* interestrate@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213A17D46A7300F18A5C /* interestrate@2x.png */; };
-		9E42213F17D46CCA00F18A5C /* loantime.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213D17D46CCA00F18A5C /* loantime.png */; };
-		9E42214017D46CCA00F18A5C /* loantime@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213E17D46CCA00F18A5C /* loantime@2x.png */; };
 		9E821DF017CFA778007DC9BE /* kcatintro-lifestyle.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E821DEF17CFA778007DC9BE /* kcatintro-lifestyle.xib */; };
 		9E821DF217CFA822007DC9BE /* kcatintro-rvb.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E821DF117CFA822007DC9BE /* kcatintro-rvb.xib */; };
 		9E821DF417CFAA92007DC9BE /* aboutyou.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E821DF317CFAA92007DC9BE /* aboutyou.xib */; };
@@ -38,21 +26,11 @@
 		9E8F7F9F17D8FEEC007C174A /* kcat-intro.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E8F7F9D17D8FEEC007C174A /* kcat-intro.png */; };
 		9E8F7FA017D8FEEC007C174A /* kcat-intro@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E8F7F9E17D8FEEC007C174A /* kcat-intro@2x.png */; };
 		9E92962517D10D1700B3DC44 /* homeinfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E92962417D10D1700B3DC44 /* homeinfo.xib */; };
-		9E92962817D134D800B3DC44 /* condo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E92962617D134D800B3DC44 /* condo.png */; };
-		9E92962917D134D800B3DC44 /* condo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E92962717D134D800B3DC44 /* condo@2x.png */; };
-		9E92962C17D1357E00B3DC44 /* homeprice.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E92962A17D1357E00B3DC44 /* homeprice.png */; };
-		9E92962D17D1357E00B3DC44 /* homeprice@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E92962B17D1357E00B3DC44 /* homeprice@2x.png */; };
-		9E92963017D135BA00B3DC44 /* hoa.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E92962E17D135BA00B3DC44 /* hoa.png */; };
-		9E92963117D135BA00B3DC44 /* hoa@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E92962F17D135BA00B3DC44 /* hoa@2x.png */; };
-		9E92963317D2EF6000B3DC44 /* homelocation.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E92963217D2EF5F00B3DC44 /* homelocation.xib */; };
+		9E92963317D2EF6000B3DC44 /* homeaddress.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E92963217D2EF5F00B3DC44 /* homeaddress.xib */; };
 		9E92963617D2F4B400B3DC44 /* location.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E92963417D2F4B400B3DC44 /* location.png */; };
 		9E92963717D2F4B400B3DC44 /* location@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E92963517D2F4B400B3DC44 /* location@2x.png */; };
 		9E97F17B17DACC98006381AE /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E97F17917DACC98006381AE /* menu.png */; };
 		9E97F17C17DACC98006381AE /* menu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E97F17A17DACC98006381AE /* menu@2x.png */; };
-		9E97F17F17DACE05006381AE /* single.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E97F17D17DACE05006381AE /* single.png */; };
-		9E97F18017DACE05006381AE /* single@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E97F17E17DACE05006381AE /* single@2x.png */; };
-		9E97F18317DACE95006381AE /* couple.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E97F18117DACE95006381AE /* couple.png */; };
-		9E97F18417DACE95006381AE /* couple@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E97F18217DACE95006381AE /* couple@2x.png */; };
 		9E9C803B17DAF41C004D8669 /* children.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C803917DAF41C004D8669 /* children.png */; };
 		9E9C803C17DAF41C004D8669 /* children@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C803A17DAF41C004D8669 /* children@2x.png */; };
 		9E9C804717DAF894004D8669 /* salary.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C804517DAF894004D8669 /* salary.png */; };
@@ -64,6 +42,36 @@
 		9E9C805517DB02DF004D8669 /* forward-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805317DB02DF004D8669 /* forward-icon@2x.png */; };
 		9E9C805817DB02EB004D8669 /* back-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805617DB02EB004D8669 /* back-icon.png */; };
 		9E9C805917DB02EB004D8669 /* back-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805717DB02EB004D8669 /* back-icon@2x.png */; };
+		9EECBB6C17DD968800EA2E6A /* rent.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB6A17DD968800EA2E6A /* rent.png */; };
+		9EECBB6D17DD968800EA2E6A /* rent@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB6B17DD968800EA2E6A /* rent@2x.png */; };
+		9EECBB7017DD971C00EA2E6A /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB6E17DD971C00EA2E6A /* car.png */; };
+		9EECBB7117DD971C00EA2E6A /* car@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB6F17DD971C00EA2E6A /* car@2x.png */; };
+		9EECBB7417DD977500EA2E6A /* otherexpenses.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB7217DD977500EA2E6A /* otherexpenses.png */; };
+		9EECBB7517DD977500EA2E6A /* otherexpenses@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB7317DD977500EA2E6A /* otherexpenses@2x.png */; };
+		9EECBB7717DD997800EA2E6A /* sfh-homeinfo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB7617DD997800EA2E6A /* sfh-homeinfo.png */; };
+		9EECBB7917DD9A1C00EA2E6A /* sfh-homeinfo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB7817DD9A1C00EA2E6A /* sfh-homeinfo@2x.png */; };
+		9EECBB7C17DD9ACF00EA2E6A /* condo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB7A17DD9ACF00EA2E6A /* condo.png */; };
+		9EECBB7D17DD9ACF00EA2E6A /* condo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB7B17DD9ACF00EA2E6A /* condo@2x.png */; };
+		9EECBB8017DD9B9500EA2E6A /* hoa.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB7E17DD9B9500EA2E6A /* hoa.png */; };
+		9EECBB8117DD9B9500EA2E6A /* hoa@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB7F17DD9B9500EA2E6A /* hoa@2x.png */; };
+		9EECBB8817DD9C7600EA2E6A /* homeprice.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB8617DD9C7600EA2E6A /* homeprice.png */; };
+		9EECBB8917DD9C7600EA2E6A /* homeprice@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB8717DD9C7600EA2E6A /* homeprice@2x.png */; };
+		9EECBB8C17DD9FF200EA2E6A /* besthomefeature.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB8A17DD9FF200EA2E6A /* besthomefeature.png */; };
+		9EECBB8D17DD9FF200EA2E6A /* besthomefeature@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB8B17DD9FF200EA2E6A /* besthomefeature@2x.png */; };
+		9EECBB9017DDA16F00EA2E6A /* couple.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB8E17DDA16F00EA2E6A /* couple.png */; };
+		9EECBB9117DDA16F00EA2E6A /* couple@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB8F17DDA16F00EA2E6A /* couple@2x.png */; };
+		9EECBB9417DDA1BB00EA2E6A /* single.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB9217DDA1BB00EA2E6A /* single.png */; };
+		9EECBB9517DDA1BB00EA2E6A /* single@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB9317DDA1BB00EA2E6A /* single@2x.png */; };
+		9EECBB9817DDA44800EA2E6A /* street.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB9617DDA44800EA2E6A /* street.png */; };
+		9EECBB9917DDA44800EA2E6A /* street@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB9717DDA44800EA2E6A /* street@2x.png */; };
+		9EECBB9C17DDA55B00EA2E6A /* city.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB9A17DDA55B00EA2E6A /* city.png */; };
+		9EECBB9D17DDA55B00EA2E6A /* city@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB9B17DDA55B00EA2E6A /* city@2x.png */; };
+		9EECBBA017DDA72A00EA2E6A /* downpayment.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB9E17DDA72A00EA2E6A /* downpayment.png */; };
+		9EECBBA117DDA72A00EA2E6A /* downpayment@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBB9F17DDA72A00EA2E6A /* downpayment@2x.png */; };
+		9EECBBA417DDA7F800EA2E6A /* interestrate.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBBA217DDA7F800EA2E6A /* interestrate.png */; };
+		9EECBBA517DDA7F800EA2E6A /* interestrate@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBBA317DDA7F800EA2E6A /* interestrate@2x.png */; };
+		9EECBBA817DDA87800EA2E6A /* loantime.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBBA617DDA87800EA2E6A /* loantime.png */; };
+		9EECBBA917DDA87800EA2E6A /* loantime@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EECBBA717DDA87800EA2E6A /* loantime@2x.png */; };
 		9EFF29E017CF0B91007F3D10 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EFF29DF17CF0B91007F3D10 /* Foundation.framework */; };
 		9EFF29E217CF0B91007F3D10 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EFF29E117CF0B91007F3D10 /* CoreGraphics.framework */; };
 		9EFF29E417CF0B91007F3D10 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EFF29E317CF0B91007F3D10 /* UIKit.framework */; };
@@ -79,7 +87,6 @@
 		9EFF2A0F17CF0BCA007F3D10 /* signup.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A0E17CF0BCA007F3D10 /* signup.xib */; };
 		9EFF2A1117CF118B007F3D10 /* signin.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A1017CF118B007F3D10 /* signin.xib */; };
 		9EFF2A1317CF15CC007F3D10 /* kcatintro-xcode-native.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A1217CF15CC007F3D10 /* kcatintro-xcode-native.xib */; };
-		9EFF2A1617CF1677007F3D10 /* kunance-logo-white-full-res.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A1517CF1677007F3D10 /* kunance-logo-white-full-res.png */; };
 		9EFF2A3A17CF29E4007F3D10 /* kcatintro-tax.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A3917CF29E4007F3D10 /* kcatintro-tax.xib */; };
 		9EFF2A3D17CF2D55007F3D10 /* appname.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A3B17CF2D55007F3D10 /* appname.png */; };
 		9EFF2A3E17CF2D55007F3D10 /* appname@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EFF2A3C17CF2D55007F3D10 /* appname@2x.png */; };
@@ -103,19 +110,7 @@
 		9E108AAC17D0600F0071AAF4 /* monthlyexpenses.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = monthlyexpenses.xib; sourceTree = "<group>"; };
 		9E108AAE17D064D10071AAF4 /* lifestyle-beach.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-beach.png"; sourceTree = "<group>"; };
 		9E108AAF17D064D10071AAF4 /* lifestyle-beach@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-beach@2x.png"; sourceTree = "<group>"; };
-		9E108ABA17D06FE40071AAF4 /* otherexpenses.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otherexpenses.png; sourceTree = "<group>"; };
-		9E108ABB17D06FE40071AAF4 /* otherexpenses@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "otherexpenses@2x.png"; sourceTree = "<group>"; };
-		9E108ABE17D071EF0071AAF4 /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car.png; sourceTree = "<group>"; };
-		9E108ABF17D071EF0071AAF4 /* car@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "car@2x.png"; sourceTree = "<group>"; };
-		9E108AC217D073BB0071AAF4 /* rent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rent.png; sourceTree = "<group>"; };
-		9E108AC317D073BB0071AAF4 /* rent@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rent@2x.png"; sourceTree = "<group>"; };
 		9E42213317D464F100F18A5C /* loaninfo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = loaninfo.xib; sourceTree = "<group>"; };
-		9E42213517D468BD00F18A5C /* downpayment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = downpayment.png; sourceTree = "<group>"; };
-		9E42213617D468BD00F18A5C /* downpayment@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "downpayment@2x.png"; sourceTree = "<group>"; };
-		9E42213917D46A7300F18A5C /* interestrate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = interestrate.png; sourceTree = "<group>"; };
-		9E42213A17D46A7300F18A5C /* interestrate@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "interestrate@2x.png"; sourceTree = "<group>"; };
-		9E42213D17D46CCA00F18A5C /* loantime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loantime.png; sourceTree = "<group>"; };
-		9E42213E17D46CCA00F18A5C /* loantime@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loantime@2x.png"; sourceTree = "<group>"; };
 		9E821DEF17CFA778007DC9BE /* kcatintro-lifestyle.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-lifestyle.xib"; sourceTree = "<group>"; };
 		9E821DF117CFA822007DC9BE /* kcatintro-rvb.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-rvb.xib"; sourceTree = "<group>"; };
 		9E821DF317CFAA92007DC9BE /* aboutyou.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = aboutyou.xib; sourceTree = "<group>"; };
@@ -127,21 +122,11 @@
 		9E8F7F9D17D8FEEC007C174A /* kcat-intro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kcat-intro.png"; sourceTree = "<group>"; };
 		9E8F7F9E17D8FEEC007C174A /* kcat-intro@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kcat-intro@2x.png"; sourceTree = "<group>"; };
 		9E92962417D10D1700B3DC44 /* homeinfo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = homeinfo.xib; sourceTree = "<group>"; };
-		9E92962617D134D800B3DC44 /* condo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = condo.png; sourceTree = "<group>"; };
-		9E92962717D134D800B3DC44 /* condo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "condo@2x.png"; sourceTree = "<group>"; };
-		9E92962A17D1357E00B3DC44 /* homeprice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = homeprice.png; sourceTree = "<group>"; };
-		9E92962B17D1357E00B3DC44 /* homeprice@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "homeprice@2x.png"; sourceTree = "<group>"; };
-		9E92962E17D135BA00B3DC44 /* hoa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hoa.png; sourceTree = "<group>"; };
-		9E92962F17D135BA00B3DC44 /* hoa@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hoa@2x.png"; sourceTree = "<group>"; };
-		9E92963217D2EF5F00B3DC44 /* homelocation.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = homelocation.xib; sourceTree = "<group>"; };
+		9E92963217D2EF5F00B3DC44 /* homeaddress.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = homeaddress.xib; sourceTree = "<group>"; };
 		9E92963417D2F4B400B3DC44 /* location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = location.png; sourceTree = "<group>"; };
 		9E92963517D2F4B400B3DC44 /* location@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "location@2x.png"; sourceTree = "<group>"; };
 		9E97F17917DACC98006381AE /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
 		9E97F17A17DACC98006381AE /* menu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu@2x.png"; sourceTree = "<group>"; };
-		9E97F17D17DACE05006381AE /* single.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = single.png; sourceTree = "<group>"; };
-		9E97F17E17DACE05006381AE /* single@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "single@2x.png"; sourceTree = "<group>"; };
-		9E97F18117DACE95006381AE /* couple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = couple.png; sourceTree = "<group>"; };
-		9E97F18217DACE95006381AE /* couple@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "couple@2x.png"; sourceTree = "<group>"; };
 		9E9C803917DAF41C004D8669 /* children.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = children.png; sourceTree = "<group>"; };
 		9E9C803A17DAF41C004D8669 /* children@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "children@2x.png"; sourceTree = "<group>"; };
 		9E9C804517DAF894004D8669 /* salary.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = salary.png; sourceTree = "<group>"; };
@@ -154,6 +139,36 @@
 		9E9C805317DB02DF004D8669 /* forward-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "forward-icon@2x.png"; sourceTree = "<group>"; };
 		9E9C805617DB02EB004D8669 /* back-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon.png"; sourceTree = "<group>"; };
 		9E9C805717DB02EB004D8669 /* back-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon@2x.png"; sourceTree = "<group>"; };
+		9EECBB6A17DD968800EA2E6A /* rent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rent.png; sourceTree = "<group>"; };
+		9EECBB6B17DD968800EA2E6A /* rent@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rent@2x.png"; sourceTree = "<group>"; };
+		9EECBB6E17DD971C00EA2E6A /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car.png; sourceTree = "<group>"; };
+		9EECBB6F17DD971C00EA2E6A /* car@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "car@2x.png"; sourceTree = "<group>"; };
+		9EECBB7217DD977500EA2E6A /* otherexpenses.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otherexpenses.png; sourceTree = "<group>"; };
+		9EECBB7317DD977500EA2E6A /* otherexpenses@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "otherexpenses@2x.png"; sourceTree = "<group>"; };
+		9EECBB7617DD997800EA2E6A /* sfh-homeinfo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sfh-homeinfo.png"; sourceTree = "<group>"; };
+		9EECBB7817DD9A1C00EA2E6A /* sfh-homeinfo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sfh-homeinfo@2x.png"; sourceTree = "<group>"; };
+		9EECBB7A17DD9ACF00EA2E6A /* condo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = condo.png; sourceTree = "<group>"; };
+		9EECBB7B17DD9ACF00EA2E6A /* condo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "condo@2x.png"; sourceTree = "<group>"; };
+		9EECBB7E17DD9B9500EA2E6A /* hoa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hoa.png; sourceTree = "<group>"; };
+		9EECBB7F17DD9B9500EA2E6A /* hoa@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hoa@2x.png"; sourceTree = "<group>"; };
+		9EECBB8617DD9C7600EA2E6A /* homeprice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = homeprice.png; sourceTree = "<group>"; };
+		9EECBB8717DD9C7600EA2E6A /* homeprice@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "homeprice@2x.png"; sourceTree = "<group>"; };
+		9EECBB8A17DD9FF200EA2E6A /* besthomefeature.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = besthomefeature.png; sourceTree = "<group>"; };
+		9EECBB8B17DD9FF200EA2E6A /* besthomefeature@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "besthomefeature@2x.png"; sourceTree = "<group>"; };
+		9EECBB8E17DDA16F00EA2E6A /* couple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = couple.png; sourceTree = "<group>"; };
+		9EECBB8F17DDA16F00EA2E6A /* couple@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "couple@2x.png"; sourceTree = "<group>"; };
+		9EECBB9217DDA1BB00EA2E6A /* single.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = single.png; sourceTree = "<group>"; };
+		9EECBB9317DDA1BB00EA2E6A /* single@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "single@2x.png"; sourceTree = "<group>"; };
+		9EECBB9617DDA44800EA2E6A /* street.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = street.png; sourceTree = "<group>"; };
+		9EECBB9717DDA44800EA2E6A /* street@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "street@2x.png"; sourceTree = "<group>"; };
+		9EECBB9A17DDA55B00EA2E6A /* city.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = city.png; sourceTree = "<group>"; };
+		9EECBB9B17DDA55B00EA2E6A /* city@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "city@2x.png"; sourceTree = "<group>"; };
+		9EECBB9E17DDA72A00EA2E6A /* downpayment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = downpayment.png; sourceTree = "<group>"; };
+		9EECBB9F17DDA72A00EA2E6A /* downpayment@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "downpayment@2x.png"; sourceTree = "<group>"; };
+		9EECBBA217DDA7F800EA2E6A /* interestrate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = interestrate.png; sourceTree = "<group>"; };
+		9EECBBA317DDA7F800EA2E6A /* interestrate@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "interestrate@2x.png"; sourceTree = "<group>"; };
+		9EECBBA617DDA87800EA2E6A /* loantime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loantime.png; sourceTree = "<group>"; };
+		9EECBBA717DDA87800EA2E6A /* loantime@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loantime@2x.png"; sourceTree = "<group>"; };
 		9EFF29DC17CF0B91007F3D10 /* kcat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kcat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EFF29DF17CF0B91007F3D10 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9EFF29E117CF0B91007F3D10 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -173,7 +188,6 @@
 		9EFF2A0E17CF0BCA007F3D10 /* signup.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = signup.xib; sourceTree = "<group>"; };
 		9EFF2A1017CF118B007F3D10 /* signin.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = signin.xib; sourceTree = "<group>"; };
 		9EFF2A1217CF15CC007F3D10 /* kcatintro-xcode-native.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-xcode-native.xib"; sourceTree = "<group>"; };
-		9EFF2A1517CF1677007F3D10 /* kunance-logo-white-full-res.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kunance-logo-white-full-res.png"; sourceTree = "<group>"; };
 		9EFF2A3917CF29E4007F3D10 /* kcatintro-tax.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "kcatintro-tax.xib"; sourceTree = "<group>"; };
 		9EFF2A3B17CF2D55007F3D10 /* appname.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appname.png; sourceTree = "<group>"; };
 		9EFF2A3C17CF2D55007F3D10 /* appname@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "appname@2x.png"; sourceTree = "<group>"; };
@@ -217,7 +231,7 @@
 				9E821DF317CFAA92007DC9BE /* aboutyou.xib */,
 				9E108AAC17D0600F0071AAF4 /* monthlyexpenses.xib */,
 				9E92962417D10D1700B3DC44 /* homeinfo.xib */,
-				9E92963217D2EF5F00B3DC44 /* homelocation.xib */,
+				9E92963217D2EF5F00B3DC44 /* homeaddress.xib */,
 				9E42213317D464F100F18A5C /* loaninfo.xib */,
 				9EFF29E517CF0B91007F3D10 /* kcat */,
 				9EFF29FE17CF0B91007F3D10 /* kcatTests */,
@@ -291,6 +305,36 @@
 		9EFF2A1417CF165B007F3D10 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				9EECBBA617DDA87800EA2E6A /* loantime.png */,
+				9EECBBA717DDA87800EA2E6A /* loantime@2x.png */,
+				9EECBBA217DDA7F800EA2E6A /* interestrate.png */,
+				9EECBBA317DDA7F800EA2E6A /* interestrate@2x.png */,
+				9EECBB9E17DDA72A00EA2E6A /* downpayment.png */,
+				9EECBB9F17DDA72A00EA2E6A /* downpayment@2x.png */,
+				9EECBB9A17DDA55B00EA2E6A /* city.png */,
+				9EECBB9B17DDA55B00EA2E6A /* city@2x.png */,
+				9EECBB9617DDA44800EA2E6A /* street.png */,
+				9EECBB9717DDA44800EA2E6A /* street@2x.png */,
+				9EECBB9217DDA1BB00EA2E6A /* single.png */,
+				9EECBB9317DDA1BB00EA2E6A /* single@2x.png */,
+				9EECBB8E17DDA16F00EA2E6A /* couple.png */,
+				9EECBB8F17DDA16F00EA2E6A /* couple@2x.png */,
+				9EECBB8A17DD9FF200EA2E6A /* besthomefeature.png */,
+				9EECBB8B17DD9FF200EA2E6A /* besthomefeature@2x.png */,
+				9EECBB8617DD9C7600EA2E6A /* homeprice.png */,
+				9EECBB8717DD9C7600EA2E6A /* homeprice@2x.png */,
+				9EECBB7E17DD9B9500EA2E6A /* hoa.png */,
+				9EECBB7F17DD9B9500EA2E6A /* hoa@2x.png */,
+				9EECBB7A17DD9ACF00EA2E6A /* condo.png */,
+				9EECBB7B17DD9ACF00EA2E6A /* condo@2x.png */,
+				9EECBB7817DD9A1C00EA2E6A /* sfh-homeinfo@2x.png */,
+				9EECBB7617DD997800EA2E6A /* sfh-homeinfo.png */,
+				9EECBB7217DD977500EA2E6A /* otherexpenses.png */,
+				9EECBB7317DD977500EA2E6A /* otherexpenses@2x.png */,
+				9EECBB6E17DD971C00EA2E6A /* car.png */,
+				9EECBB6F17DD971C00EA2E6A /* car@2x.png */,
+				9EECBB6A17DD968800EA2E6A /* rent.png */,
+				9EECBB6B17DD968800EA2E6A /* rent@2x.png */,
 				9E9C805617DB02EB004D8669 /* back-icon.png */,
 				9E9C805717DB02EB004D8669 /* back-icon@2x.png */,
 				9E9C805217DB02DF004D8669 /* forward-icon.png */,
@@ -301,34 +345,12 @@
 				9E9C804617DAF894004D8669 /* salary@2X.png */,
 				9E9C803917DAF41C004D8669 /* children.png */,
 				9E9C803A17DAF41C004D8669 /* children@2x.png */,
-				9E97F18117DACE95006381AE /* couple.png */,
-				9E97F18217DACE95006381AE /* couple@2x.png */,
-				9E97F17D17DACE05006381AE /* single.png */,
-				9E97F17E17DACE05006381AE /* single@2x.png */,
 				9E97F17917DACC98006381AE /* menu.png */,
 				9E97F17A17DACC98006381AE /* menu@2x.png */,
 				9E8F7F9D17D8FEEC007C174A /* kcat-intro.png */,
 				9E8F7F9E17D8FEEC007C174A /* kcat-intro@2x.png */,
-				9E42213D17D46CCA00F18A5C /* loantime.png */,
-				9E42213E17D46CCA00F18A5C /* loantime@2x.png */,
-				9E42213917D46A7300F18A5C /* interestrate.png */,
-				9E42213A17D46A7300F18A5C /* interestrate@2x.png */,
-				9E42213517D468BD00F18A5C /* downpayment.png */,
-				9E42213617D468BD00F18A5C /* downpayment@2x.png */,
 				9E92963417D2F4B400B3DC44 /* location.png */,
 				9E92963517D2F4B400B3DC44 /* location@2x.png */,
-				9E92962E17D135BA00B3DC44 /* hoa.png */,
-				9E92962F17D135BA00B3DC44 /* hoa@2x.png */,
-				9E92962A17D1357E00B3DC44 /* homeprice.png */,
-				9E92962B17D1357E00B3DC44 /* homeprice@2x.png */,
-				9E92962617D134D800B3DC44 /* condo.png */,
-				9E92962717D134D800B3DC44 /* condo@2x.png */,
-				9E108AC217D073BB0071AAF4 /* rent.png */,
-				9E108AC317D073BB0071AAF4 /* rent@2x.png */,
-				9E108ABE17D071EF0071AAF4 /* car.png */,
-				9E108ABF17D071EF0071AAF4 /* car@2x.png */,
-				9E108ABA17D06FE40071AAF4 /* otherexpenses.png */,
-				9E108ABB17D06FE40071AAF4 /* otherexpenses@2x.png */,
 				9E108AAE17D064D10071AAF4 /* lifestyle-beach.png */,
 				9E108AAF17D064D10071AAF4 /* lifestyle-beach@2x.png */,
 				9E108AA817D05FA40071AAF4 /* dashboard.png */,
@@ -341,7 +363,6 @@
 				9E821E1617CFBEBB007DC9BE /* sfh@2x.png */,
 				9EFF2A3B17CF2D55007F3D10 /* appname.png */,
 				9EFF2A3C17CF2D55007F3D10 /* appname@2x.png */,
-				9EFF2A1517CF1677007F3D10 /* kunance-logo-white-full-res.png */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -421,71 +442,78 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E42213B17D46A7300F18A5C /* interestrate.png in Resources */,
-				9E108AC117D071EF0071AAF4 /* car@2x.png in Resources */,
 				9E821E1817CFBEBB007DC9BE /* sfh@2x.png in Resources */,
-				9E108AC017D071EF0071AAF4 /* car.png in Resources */,
 				9E821E1F17CFC8FD007DC9BE /* compare.png in Resources */,
 				9E9C805517DB02DF004D8669 /* forward-icon@2x.png in Resources */,
-				9E92963317D2EF6000B3DC44 /* homelocation.xib in Resources */,
-				9E108AC517D073BB0071AAF4 /* rent@2x.png in Resources */,
-				9E92962D17D1357E00B3DC44 /* homeprice@2x.png in Resources */,
+				9EECBBA817DDA87800EA2E6A /* loantime.png in Resources */,
+				9EECBB9C17DDA55B00EA2E6A /* city.png in Resources */,
+				9EECBBA517DDA7F800EA2E6A /* interestrate@2x.png in Resources */,
+				9E92963317D2EF6000B3DC44 /* homeaddress.xib in Resources */,
+				9EECBB9917DDA44800EA2E6A /* street@2x.png in Resources */,
 				9E9C804717DAF894004D8669 /* salary.png in Resources */,
-				9E92963017D135BA00B3DC44 /* hoa.png in Resources */,
+				9EECBB8D17DD9FF200EA2E6A /* besthomefeature@2x.png in Resources */,
+				9EECBB7417DD977500EA2E6A /* otherexpenses.png in Resources */,
 				9E8F7F9F17D8FEEC007C174A /* kcat-intro.png in Resources */,
 				9EFF2A0F17CF0BCA007F3D10 /* signup.xib in Resources */,
 				9EFF29EA17CF0B91007F3D10 /* InfoPlist.strings in Resources */,
+				9EECBB8C17DD9FF200EA2E6A /* besthomefeature.png in Resources */,
 				9E92962517D10D1700B3DC44 /* homeinfo.xib in Resources */,
+				9EECBB7C17DD9ACF00EA2E6A /* condo.png in Resources */,
 				9E108AAD17D0600F0071AAF4 /* monthlyexpenses.xib in Resources */,
+				9EECBB9D17DDA55B00EA2E6A /* city@2x.png in Resources */,
 				9EFF2A3E17CF2D55007F3D10 /* appname@2x.png in Resources */,
-				9E108AC417D073BB0071AAF4 /* rent.png in Resources */,
-				9E92962817D134D800B3DC44 /* condo.png in Resources */,
 				9E9C805917DB02EB004D8669 /* back-icon@2x.png in Resources */,
 				9E97F17C17DACC98006381AE /* menu@2x.png in Resources */,
 				9E97F17B17DACC98006381AE /* menu.png in Resources */,
-				9E42214017D46CCA00F18A5C /* loantime@2x.png in Resources */,
-				9E108ABD17D06FE40071AAF4 /* otherexpenses@2x.png in Resources */,
-				9E97F18317DACE95006381AE /* couple.png in Resources */,
 				9E42213417D464F100F18A5C /* loaninfo.xib in Resources */,
 				9E8F7F9817D8FC26007C174A /* kcatintro.xib in Resources */,
 				9E9C804C17DAF932004D8669 /* savings@2X.png in Resources */,
+				9EECBB9817DDA44800EA2E6A /* street.png in Resources */,
 				9E108AA317D05CFF0071AAF4 /* help@2x.png in Resources */,
-				9E42213F17D46CCA00F18A5C /* loantime.png in Resources */,
+				9EECBB9117DDA16F00EA2E6A /* couple@2x.png in Resources */,
+				9EECBB6D17DD968800EA2E6A /* rent@2x.png in Resources */,
+				9EECBB7717DD997800EA2E6A /* sfh-homeinfo.png in Resources */,
 				9E9C804817DAF894004D8669 /* salary@2X.png in Resources */,
 				9E821DF017CFA778007DC9BE /* kcatintro-lifestyle.xib in Resources */,
-				9E42213717D468BD00F18A5C /* downpayment.png in Resources */,
-				9E97F17F17DACE05006381AE /* single.png in Resources */,
+				9EECBBA017DDA72A00EA2E6A /* downpayment.png in Resources */,
 				9EFF2A1317CF15CC007F3D10 /* kcatintro-xcode-native.xib in Resources */,
-				9E92962917D134D800B3DC44 /* condo@2x.png in Resources */,
+				9EECBB8117DD9B9500EA2E6A /* hoa@2x.png in Resources */,
+				9EECBB7017DD971C00EA2E6A /* car.png in Resources */,
 				9EFF29F217CF0B91007F3D10 /* Images.xcassets in Resources */,
-				9E42213817D468BD00F18A5C /* downpayment@2x.png in Resources */,
 				9E108AAA17D05FA40071AAF4 /* dashboard.png in Resources */,
-				9E92962C17D1357E00B3DC44 /* homeprice.png in Resources */,
 				9E9C805817DB02EB004D8669 /* back-icon.png in Resources */,
 				9EFF2A3A17CF29E4007F3D10 /* kcatintro-tax.xib in Resources */,
 				9E92963717D2F4B400B3DC44 /* location@2x.png in Resources */,
+				9EECBBA417DDA7F800EA2E6A /* interestrate.png in Resources */,
+				9EECBB9017DDA16F00EA2E6A /* couple.png in Resources */,
 				9E108AB117D064D10071AAF4 /* lifestyle-beach@2x.png in Resources */,
+				9EECBBA917DDA87800EA2E6A /* loantime@2x.png in Resources */,
 				9E108AA217D05CFF0071AAF4 /* help.png in Resources */,
-				9EFF2A1617CF1677007F3D10 /* kunance-logo-white-full-res.png in Resources */,
 				9EFF2A3D17CF2D55007F3D10 /* appname.png in Resources */,
-				9E97F18017DACE05006381AE /* single@2x.png in Resources */,
+				9EECBB6C17DD968800EA2E6A /* rent.png in Resources */,
+				9EECBBA117DDA72A00EA2E6A /* downpayment@2x.png in Resources */,
 				9E821E1717CFBEBB007DC9BE /* sfh.png in Resources */,
 				9E108AB017D064D10071AAF4 /* lifestyle-beach.png in Resources */,
-				9E42213C17D46A7300F18A5C /* interestrate@2x.png in Resources */,
-				9E108ABC17D06FE40071AAF4 /* otherexpenses.png in Resources */,
+				9EECBB7917DD9A1C00EA2E6A /* sfh-homeinfo@2x.png in Resources */,
 				9E821DF217CFA822007DC9BE /* kcatintro-rvb.xib in Resources */,
-				9E97F18417DACE95006381AE /* couple@2x.png in Resources */,
+				9EECBB8917DD9C7600EA2E6A /* homeprice@2x.png in Resources */,
 				9E92963617D2F4B400B3DC44 /* location.png in Resources */,
 				9E9C804B17DAF932004D8669 /* savings.png in Resources */,
 				9E9C803B17DAF41C004D8669 /* children.png in Resources */,
-				9E92963117D135BA00B3DC44 /* hoa@2x.png in Resources */,
 				9E821DF417CFAA92007DC9BE /* aboutyou.xib in Resources */,
 				9E9C805417DB02DF004D8669 /* forward-icon.png in Resources */,
+				9EECBB9517DDA1BB00EA2E6A /* single@2x.png in Resources */,
 				9E8F7FA017D8FEEC007C174A /* kcat-intro@2x.png in Resources */,
 				9E9C803C17DAF41C004D8669 /* children@2x.png in Resources */,
 				9EFF2A1117CF118B007F3D10 /* signin.xib in Resources */,
 				9E108AAB17D05FA40071AAF4 /* dashboard@2x.png in Resources */,
 				9E821E2017CFC8FD007DC9BE /* compare@2x.png in Resources */,
+				9EECBB7517DD977500EA2E6A /* otherexpenses@2x.png in Resources */,
+				9EECBB8017DD9B9500EA2E6A /* hoa.png in Resources */,
+				9EECBB7D17DD9ACF00EA2E6A /* condo@2x.png in Resources */,
+				9EECBB8817DD9C7600EA2E6A /* homeprice.png in Resources */,
+				9EECBB9417DDA1BB00EA2E6A /* single.png in Resources */,
+				9EECBB7117DD971C00EA2E6A /* car@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
