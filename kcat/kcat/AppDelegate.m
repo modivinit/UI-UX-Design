@@ -18,7 +18,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     UIViewController* controller = [[UIViewController alloc] init];
 
-    UIView *firstViewUIView = [[[NSBundle mainBundle] loadNibNamed:@"aboutyou"
+    UIView *firstViewUIView = [[[NSBundle mainBundle] loadNibNamed:@"signup"
                                                              owner:self options:nil] objectAtIndex:0];
     [controller.view addSubview:firstViewUIView];
 
