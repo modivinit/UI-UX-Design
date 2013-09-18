@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E00681C17E9830B00F389E1 /* realtorcontact.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E00681B17E9830B00F389E1 /* realtorcontact.xib */; };
+		9E00681E17E9853500F389E1 /* logo_svl-complete.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9E00681D17E9853500F389E1 /* logo_svl-complete.gif */; };
 		9E066EED17E65EBF00524961 /* condo-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EE917E65EBF00524961 /* condo-selected.png */; };
 		9E066EEE17E65EBF00524961 /* condo-selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EEA17E65EBF00524961 /* condo-selected@2x.png */; };
 		9E066EEF17E65EBF00524961 /* sfh-homeinfo-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EEB17E65EBF00524961 /* sfh-homeinfo-selected.png */; };
@@ -16,6 +18,11 @@
 		9E108AAA17D05FA40071AAF4 /* dashboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AA817D05FA40071AAF4 /* dashboard.png */; };
 		9E108AAB17D05FA40071AAF4 /* dashboard@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AA917D05FA40071AAF4 /* dashboard@2x.png */; };
 		9E108AAD17D0600F0071AAF4 /* monthlyexpenses.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AAC17D0600F0071AAF4 /* monthlyexpenses.xib */; };
+		9E16A32C17E96921006DCD04 /* dashboard-2hcompare.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E16A32B17E96921006DCD04 /* dashboard-2hcompare.xib */; };
+		9E16A32E17E96939006DCD04 /* dashboard-1hcompare.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E16A32D17E96939006DCD04 /* dashboard-1hcompare.xib */; };
+		9E16A33117E97308006DCD04 /* logo_svl.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9E16A32F17E97308006DCD04 /* logo_svl.gif */; };
+		9E16A33217E97308006DCD04 /* logo_svl@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9E16A33017E97308006DCD04 /* logo_svl@2x.gif */; };
+		9E16A33617E97952006DCD04 /* chart.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E16A33517E97952006DCD04 /* chart.png */; };
 		9E42213417D464F100F18A5C /* loaninfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213317D464F100F18A5C /* loaninfo.xib */; };
 		9E64514117E76C7900B70C15 /* iphone3.5-signup.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E64514017E76C7900B70C15 /* iphone3.5-signup.xib */; };
 		9E718D6517DE57A900291228 /* dashboard-noinfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E718D6417DE57A900291228 /* dashboard-noinfo.xib */; };
@@ -125,6 +132,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9E00681B17E9830B00F389E1 /* realtorcontact.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = realtorcontact.xib; sourceTree = "<group>"; };
+		9E00681D17E9853500F389E1 /* logo_svl-complete.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "logo_svl-complete.gif"; sourceTree = "<group>"; };
 		9E066EE917E65EBF00524961 /* condo-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "condo-selected.png"; sourceTree = "<group>"; };
 		9E066EEA17E65EBF00524961 /* condo-selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "condo-selected@2x.png"; sourceTree = "<group>"; };
 		9E066EEB17E65EBF00524961 /* sfh-homeinfo-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sfh-homeinfo-selected.png"; sourceTree = "<group>"; };
@@ -134,6 +143,11 @@
 		9E108AA817D05FA40071AAF4 /* dashboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dashboard.png; sourceTree = "<group>"; };
 		9E108AA917D05FA40071AAF4 /* dashboard@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dashboard@2x.png"; sourceTree = "<group>"; };
 		9E108AAC17D0600F0071AAF4 /* monthlyexpenses.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = monthlyexpenses.xib; sourceTree = "<group>"; };
+		9E16A32B17E96921006DCD04 /* dashboard-2hcompare.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "dashboard-2hcompare.xib"; sourceTree = "<group>"; };
+		9E16A32D17E96939006DCD04 /* dashboard-1hcompare.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "dashboard-1hcompare.xib"; sourceTree = "<group>"; };
+		9E16A32F17E97308006DCD04 /* logo_svl.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = logo_svl.gif; sourceTree = "<group>"; };
+		9E16A33017E97308006DCD04 /* logo_svl@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "logo_svl@2x.gif"; sourceTree = "<group>"; };
+		9E16A33517E97952006DCD04 /* chart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chart.png; sourceTree = "<group>"; };
 		9E42213317D464F100F18A5C /* loaninfo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = loaninfo.xib; sourceTree = "<group>"; };
 		9E64514017E76C7900B70C15 /* iphone3.5-signup.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "iphone3.5-signup.xib"; sourceTree = "<group>"; };
 		9E718D6417DE57A900291228 /* dashboard-noinfo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "dashboard-noinfo.xib"; sourceTree = "<group>"; };
@@ -279,6 +293,9 @@
 				9E42213317D464F100F18A5C /* loaninfo.xib */,
 				9E718D6417DE57A900291228 /* dashboard-noinfo.xib */,
 				9E718D7617DE5E6800291228 /* dashboard-pfinfo.xib */,
+				9E16A32B17E96921006DCD04 /* dashboard-2hcompare.xib */,
+				9E16A32D17E96939006DCD04 /* dashboard-1hcompare.xib */,
+				9E00681B17E9830B00F389E1 /* realtorcontact.xib */,
 				9EFF29E517CF0B91007F3D10 /* kcat */,
 				9EFF29FE17CF0B91007F3D10 /* kcatTests */,
 				9EFF29DE17CF0B91007F3D10 /* Frameworks */,
@@ -429,6 +446,10 @@
 				9ED8850417DE6AD800EA0651 /* lifestyle-food@2x.png */,
 				9ED8850717DE6D8700EA0651 /* surfing.png */,
 				9ED8850817DE6D8700EA0651 /* surfing@2x.png */,
+				9E16A32F17E97308006DCD04 /* logo_svl.gif */,
+				9E16A33017E97308006DCD04 /* logo_svl@2x.gif */,
+				9E16A33517E97952006DCD04 /* chart.png */,
+				9E00681D17E9853500F389E1 /* logo_svl-complete.gif */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -528,6 +549,8 @@
 				9EECBB8C17DD9FF200EA2E6A /* besthomefeature.png in Resources */,
 				9E92962517D10D1700B3DC44 /* homeinfo.xib in Resources */,
 				9EECBB7C17DD9ACF00EA2E6A /* condo.png in Resources */,
+				9E00681C17E9830B00F389E1 /* realtorcontact.xib in Resources */,
+				9E16A33217E97308006DCD04 /* logo_svl@2x.gif in Resources */,
 				9E108AAD17D0600F0071AAF4 /* monthlyexpenses.xib in Resources */,
 				9EECBB9D17DDA55B00EA2E6A /* city@2x.png in Resources */,
 				9EFF2A3E17CF2D55007F3D10 /* appname@2x.png in Resources */,
@@ -537,10 +560,12 @@
 				9E718D7717DE5E6800291228 /* dashboard-pfinfo.xib in Resources */,
 				9E97F17B17DACC98006381AE /* menu.png in Resources */,
 				9E718D7417DE5E1900291228 /* lifestyle-beach.png in Resources */,
+				9E16A32E17E96939006DCD04 /* dashboard-1hcompare.xib in Resources */,
 				9E42213417D464F100F18A5C /* loaninfo.xib in Resources */,
 				9ED884F117DE680A00EA0651 /* lifestyle-shopping.png in Resources */,
 				9E9C804C17DAF932004D8669 /* savings@2X.png in Resources */,
 				9EECBB9817DDA44800EA2E6A /* street.png in Resources */,
+				9E16A33117E97308006DCD04 /* logo_svl.gif in Resources */,
 				9E108AA317D05CFF0071AAF4 /* help@2x.png in Resources */,
 				9EECBB9117DDA16F00EA2E6A /* couple@2x.png in Resources */,
 				9EE82E6417E65DE000ED7E93 /* couple-selected@2x.png in Resources */,
@@ -550,7 +575,9 @@
 				9E9C804817DAF894004D8669 /* salary@2X.png in Resources */,
 				9E821DF017CFA778007DC9BE /* kcatintro-lifestyle.xib in Resources */,
 				9EECBBA017DDA72A00EA2E6A /* downpayment.png in Resources */,
+				9E16A33617E97952006DCD04 /* chart.png in Resources */,
 				9E718D6D17DE5CE400291228 /* sfh@2x.png in Resources */,
+				9E00681E17E9853500F389E1 /* logo_svl-complete.gif in Resources */,
 				9ED8850A17DE6D8700EA0651 /* surfing@2x.png in Resources */,
 				9E718D6817DE5A4C00291228 /* couple-dashboard.png in Resources */,
 				9EFF2A1317CF15CC007F3D10 /* kcatintro.xib in Resources */,
@@ -585,6 +612,7 @@
 				9E718D6917DE5A4C00291228 /* couple-dashboard@2x.png in Resources */,
 				9E821DF417CFAA92007DC9BE /* aboutyou.xib in Resources */,
 				9ED884F917DE690500EA0651 /* lifestyle-music.png in Resources */,
+				9E16A32C17E96921006DCD04 /* dashboard-2hcompare.xib in Resources */,
 				9E9C805417DB02DF004D8669 /* forward-icon.png in Resources */,
 				9ED8850617DE6AD800EA0651 /* lifestyle-food@2x.png in Resources */,
 				9EECBB9517DDA1BB00EA2E6A /* single@2x.png in Resources */,
