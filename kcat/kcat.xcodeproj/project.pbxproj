@@ -57,6 +57,20 @@
 		9E9C805517DB02DF004D8669 /* forward-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805317DB02DF004D8669 /* forward-icon@2x.png */; };
 		9E9C805817DB02EB004D8669 /* back-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805617DB02EB004D8669 /* back-icon.png */; };
 		9E9C805917DB02EB004D8669 /* back-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C805717DB02EB004D8669 /* back-icon@2x.png */; };
+		9ECCAD8717F0E1B0001EAF4C /* arrowdown.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCAD8617F0E1B0001EAF4C /* arrowdown.png */; };
+		9ECCAD8917F0E26A001EAF4C /* arrowdownsingle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCAD8817F0E26A001EAF4C /* arrowdownsingle.png */; };
+		9ECCADBA17F0E889001EAF4C /* compare-dash.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADAE17F0E889001EAF4C /* compare-dash.png */; };
+		9ECCADBB17F0E889001EAF4C /* compare-dash@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADAF17F0E889001EAF4C /* compare-dash@2x.png */; };
+		9ECCADBC17F0E889001EAF4C /* couple-dash.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB017F0E889001EAF4C /* couple-dash.png */; };
+		9ECCADBD17F0E889001EAF4C /* couple-dash@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB117F0E889001EAF4C /* couple-dash@2x.png */; };
+		9ECCADBE17F0E889001EAF4C /* doubledownarrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB217F0E889001EAF4C /* doubledownarrow.png */; };
+		9ECCADBF17F0E889001EAF4C /* doubledownarrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB317F0E889001EAF4C /* doubledownarrow@2x.png */; };
+		9ECCADC017F0E889001EAF4C /* downarrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB417F0E889001EAF4C /* downarrow.png */; };
+		9ECCADC117F0E889001EAF4C /* downarrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB517F0E889001EAF4C /* downarrow@2x.png */; };
+		9ECCADC217F0E889001EAF4C /* lifestyle-beach-dash.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB617F0E889001EAF4C /* lifestyle-beach-dash.png */; };
+		9ECCADC317F0E889001EAF4C /* lifestyle-beach-dash@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB717F0E889001EAF4C /* lifestyle-beach-dash@2x.png */; };
+		9ECCADC417F0E889001EAF4C /* sfh-dash.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB817F0E889001EAF4C /* sfh-dash.png */; };
+		9ECCADC517F0E889001EAF4C /* sfh-dash@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ECCADB917F0E889001EAF4C /* sfh-dash@2x.png */; };
 		9ED884ED17DE67A500EA0651 /* lifestyle-sports.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884EB17DE67A500EA0651 /* lifestyle-sports.png */; };
 		9ED884EE17DE67A500EA0651 /* lifestyle-sports@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884EC17DE67A500EA0651 /* lifestyle-sports@2x.png */; };
 		9ED884F117DE680A00EA0651 /* lifestyle-shopping.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED884EF17DE680A00EA0651 /* lifestyle-shopping.png */; };
@@ -183,6 +197,20 @@
 		9E9C805317DB02DF004D8669 /* forward-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "forward-icon@2x.png"; sourceTree = "<group>"; };
 		9E9C805617DB02EB004D8669 /* back-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon.png"; sourceTree = "<group>"; };
 		9E9C805717DB02EB004D8669 /* back-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon@2x.png"; sourceTree = "<group>"; };
+		9ECCAD8617F0E1B0001EAF4C /* arrowdown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrowdown.png; sourceTree = "<group>"; };
+		9ECCAD8817F0E26A001EAF4C /* arrowdownsingle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrowdownsingle.png; sourceTree = "<group>"; };
+		9ECCADAE17F0E889001EAF4C /* compare-dash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "compare-dash.png"; sourceTree = "<group>"; };
+		9ECCADAF17F0E889001EAF4C /* compare-dash@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "compare-dash@2x.png"; sourceTree = "<group>"; };
+		9ECCADB017F0E889001EAF4C /* couple-dash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "couple-dash.png"; sourceTree = "<group>"; };
+		9ECCADB117F0E889001EAF4C /* couple-dash@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "couple-dash@2x.png"; sourceTree = "<group>"; };
+		9ECCADB217F0E889001EAF4C /* doubledownarrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doubledownarrow.png; sourceTree = "<group>"; };
+		9ECCADB317F0E889001EAF4C /* doubledownarrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "doubledownarrow@2x.png"; sourceTree = "<group>"; };
+		9ECCADB417F0E889001EAF4C /* downarrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = downarrow.png; sourceTree = "<group>"; };
+		9ECCADB517F0E889001EAF4C /* downarrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "downarrow@2x.png"; sourceTree = "<group>"; };
+		9ECCADB617F0E889001EAF4C /* lifestyle-beach-dash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-beach-dash.png"; sourceTree = "<group>"; };
+		9ECCADB717F0E889001EAF4C /* lifestyle-beach-dash@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-beach-dash@2x.png"; sourceTree = "<group>"; };
+		9ECCADB817F0E889001EAF4C /* sfh-dash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sfh-dash.png"; sourceTree = "<group>"; };
+		9ECCADB917F0E889001EAF4C /* sfh-dash@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sfh-dash@2x.png"; sourceTree = "<group>"; };
 		9ED884EB17DE67A500EA0651 /* lifestyle-sports.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-sports.png"; sourceTree = "<group>"; };
 		9ED884EC17DE67A500EA0651 /* lifestyle-sports@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-sports@2x.png"; sourceTree = "<group>"; };
 		9ED884EF17DE680A00EA0651 /* lifestyle-shopping.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifestyle-shopping.png"; sourceTree = "<group>"; };
@@ -450,6 +478,20 @@
 				9E16A33017E97308006DCD04 /* logo_svl@2x.gif */,
 				9E16A33517E97952006DCD04 /* chart.png */,
 				9E00681D17E9853500F389E1 /* logo_svl-complete.gif */,
+				9ECCAD8617F0E1B0001EAF4C /* arrowdown.png */,
+				9ECCAD8817F0E26A001EAF4C /* arrowdownsingle.png */,
+				9ECCADAE17F0E889001EAF4C /* compare-dash.png */,
+				9ECCADAF17F0E889001EAF4C /* compare-dash@2x.png */,
+				9ECCADB017F0E889001EAF4C /* couple-dash.png */,
+				9ECCADB117F0E889001EAF4C /* couple-dash@2x.png */,
+				9ECCADB217F0E889001EAF4C /* doubledownarrow.png */,
+				9ECCADB317F0E889001EAF4C /* doubledownarrow@2x.png */,
+				9ECCADB417F0E889001EAF4C /* downarrow.png */,
+				9ECCADB517F0E889001EAF4C /* downarrow@2x.png */,
+				9ECCADB617F0E889001EAF4C /* lifestyle-beach-dash.png */,
+				9ECCADB717F0E889001EAF4C /* lifestyle-beach-dash@2x.png */,
+				9ECCADB817F0E889001EAF4C /* sfh-dash.png */,
+				9ECCADB917F0E889001EAF4C /* sfh-dash@2x.png */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -531,23 +573,28 @@
 			files = (
 				9EE82E6317E65DE000ED7E93 /* couple-selected.png in Resources */,
 				9E9C805517DB02DF004D8669 /* forward-icon@2x.png in Resources */,
+				9ECCAD8717F0E1B0001EAF4C /* arrowdown.png in Resources */,
 				9EECBBA817DDA87800EA2E6A /* loantime.png in Resources */,
+				9ECCADBE17F0E889001EAF4C /* doubledownarrow.png in Resources */,
 				9EECBB9C17DDA55B00EA2E6A /* city.png in Resources */,
 				9EECBBA517DDA7F800EA2E6A /* interestrate@2x.png in Resources */,
 				9E92963317D2EF6000B3DC44 /* homeaddress.xib in Resources */,
 				9EE82E6617E65DE000ED7E93 /* single-selected@2x.png in Resources */,
 				9EECBB9917DDA44800EA2E6A /* street@2x.png in Resources */,
 				9E9C804717DAF894004D8669 /* salary.png in Resources */,
+				9ECCADC317F0E889001EAF4C /* lifestyle-beach-dash@2x.png in Resources */,
 				9EECBB8D17DD9FF200EA2E6A /* besthomefeature@2x.png in Resources */,
 				9EECBB7417DD977500EA2E6A /* otherexpenses.png in Resources */,
 				9E8F7F9F17D8FEEC007C174A /* kcat-intro.png in Resources */,
 				9ED884FA17DE690500EA0651 /* lifestyle-music@2x.png in Resources */,
 				9EFF2A0F17CF0BCA007F3D10 /* iphone4-signup.xib in Resources */,
+				9ECCADBD17F0E889001EAF4C /* couple-dash@2x.png in Resources */,
 				9EFF29EA17CF0B91007F3D10 /* InfoPlist.strings in Resources */,
 				9ED884F217DE680A00EA0651 /* lifestyle-shopping@2x.png in Resources */,
 				9E066EEE17E65EBF00524961 /* condo-selected@2x.png in Resources */,
 				9EECBB8C17DD9FF200EA2E6A /* besthomefeature.png in Resources */,
 				9E92962517D10D1700B3DC44 /* homeinfo.xib in Resources */,
+				9ECCADC417F0E889001EAF4C /* sfh-dash.png in Resources */,
 				9EECBB7C17DD9ACF00EA2E6A /* condo.png in Resources */,
 				9E00681C17E9830B00F389E1 /* realtorcontact.xib in Resources */,
 				9E16A33217E97308006DCD04 /* logo_svl@2x.gif in Resources */,
@@ -566,6 +613,7 @@
 				9E9C804C17DAF932004D8669 /* savings@2X.png in Resources */,
 				9EECBB9817DDA44800EA2E6A /* street.png in Resources */,
 				9E16A33117E97308006DCD04 /* logo_svl.gif in Resources */,
+				9ECCADBF17F0E889001EAF4C /* doubledownarrow@2x.png in Resources */,
 				9E108AA317D05CFF0071AAF4 /* help@2x.png in Resources */,
 				9EECBB9117DDA16F00EA2E6A /* couple@2x.png in Resources */,
 				9EE82E6417E65DE000ED7E93 /* couple-selected@2x.png in Resources */,
@@ -579,6 +627,7 @@
 				9E718D6D17DE5CE400291228 /* sfh@2x.png in Resources */,
 				9E00681E17E9853500F389E1 /* logo_svl-complete.gif in Resources */,
 				9ED8850A17DE6D8700EA0651 /* surfing@2x.png in Resources */,
+				9ECCADBC17F0E889001EAF4C /* couple-dash.png in Resources */,
 				9E718D6817DE5A4C00291228 /* couple-dashboard.png in Resources */,
 				9EFF2A1317CF15CC007F3D10 /* kcatintro.xib in Resources */,
 				9EECBB8117DD9B9500EA2E6A /* hoa@2x.png in Resources */,
@@ -588,17 +637,21 @@
 				9E108AAA17D05FA40071AAF4 /* dashboard.png in Resources */,
 				9E9C805817DB02EB004D8669 /* back-icon.png in Resources */,
 				9EFF2A3A17CF29E4007F3D10 /* kcatintro-tax.xib in Resources */,
+				9ECCADC517F0E889001EAF4C /* sfh-dash@2x.png in Resources */,
 				9E64514117E76C7900B70C15 /* iphone3.5-signup.xib in Resources */,
 				9E92963717D2F4B400B3DC44 /* location@2x.png in Resources */,
 				9EECBBA417DDA7F800EA2E6A /* interestrate.png in Resources */,
+				9ECCADC017F0E889001EAF4C /* downarrow.png in Resources */,
 				9EECBB9017DDA16F00EA2E6A /* couple.png in Resources */,
 				9EECBBA917DDA87800EA2E6A /* loantime@2x.png in Resources */,
 				9ED884ED17DE67A500EA0651 /* lifestyle-sports.png in Resources */,
 				9E108AA217D05CFF0071AAF4 /* help.png in Resources */,
 				9EFF2A3D17CF2D55007F3D10 /* appname.png in Resources */,
+				9ECCADC217F0E889001EAF4C /* lifestyle-beach-dash.png in Resources */,
 				9EECBB6C17DD968800EA2E6A /* rent.png in Resources */,
 				9ED884EE17DE67A500EA0651 /* lifestyle-sports@2x.png in Resources */,
 				9E066EEF17E65EBF00524961 /* sfh-homeinfo-selected.png in Resources */,
+				9ECCADBA17F0E889001EAF4C /* compare-dash.png in Resources */,
 				9E066EED17E65EBF00524961 /* condo-selected.png in Resources */,
 				9E718D7117DE5D9B00291228 /* compare@2x.png in Resources */,
 				9EECBBA117DDA72A00EA2E6A /* downpayment@2x.png in Resources */,
@@ -622,12 +675,15 @@
 				9EFF2A1117CF118B007F3D10 /* signin.xib in Resources */,
 				9E108AAB17D05FA40071AAF4 /* dashboard@2x.png in Resources */,
 				9EECBB7517DD977500EA2E6A /* otherexpenses@2x.png in Resources */,
+				9ECCADC117F0E889001EAF4C /* downarrow@2x.png in Resources */,
 				9EECBB8017DD9B9500EA2E6A /* hoa.png in Resources */,
+				9ECCADBB17F0E889001EAF4C /* compare-dash@2x.png in Resources */,
 				9EECBB7D17DD9ACF00EA2E6A /* condo@2x.png in Resources */,
 				9EECBB8817DD9C7600EA2E6A /* homeprice.png in Resources */,
 				9ED8850917DE6D8700EA0651 /* surfing.png in Resources */,
 				9EECBB9417DDA1BB00EA2E6A /* single.png in Resources */,
 				9EECBB7117DD971C00EA2E6A /* car@2x.png in Resources */,
+				9ECCAD8917F0E26A001EAF4C /* arrowdownsingle.png in Resources */,
 				9EE82E6517E65DE000ED7E93 /* single-selected.png in Resources */,
 				9E718D6C17DE5CE400291228 /* sfh.png in Resources */,
 			);
