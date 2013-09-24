@@ -18,7 +18,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     UIViewController* controller = [[UIViewController alloc] init];
 
-    UIView *firstViewUIView = [[[NSBundle mainBundle] loadNibNamed:@"kcatintro"
+    UIView *firstViewUIView = [[[NSBundle mainBundle] loadNibNamed:@"aboutyou"
                                                              owner:self options:nil] objectAtIndex:0];
     [controller.view addSubview:firstViewUIView];
 

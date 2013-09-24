@@ -13,8 +13,6 @@
 		9E066EEE17E65EBF00524961 /* condo-selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EEA17E65EBF00524961 /* condo-selected@2x.png */; };
 		9E066EEF17E65EBF00524961 /* sfh-homeinfo-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EEB17E65EBF00524961 /* sfh-homeinfo-selected.png */; };
 		9E066EF017E65EBF00524961 /* sfh-homeinfo-selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EEC17E65EBF00524961 /* sfh-homeinfo-selected@2x.png */; };
-		9E108AA217D05CFF0071AAF4 /* help.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AA017D05CFF0071AAF4 /* help.png */; };
-		9E108AA317D05CFF0071AAF4 /* help@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AA117D05CFF0071AAF4 /* help@2x.png */; };
 		9E108AAA17D05FA40071AAF4 /* dashboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AA817D05FA40071AAF4 /* dashboard.png */; };
 		9E108AAB17D05FA40071AAF4 /* dashboard@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AA917D05FA40071AAF4 /* dashboard@2x.png */; };
 		9E108AAD17D0600F0071AAF4 /* monthlyexpenses.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E108AAC17D0600F0071AAF4 /* monthlyexpenses.xib */; };
@@ -24,6 +22,12 @@
 		9E16A33217E97308006DCD04 /* logo_svl@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9E16A33017E97308006DCD04 /* logo_svl@2x.gif */; };
 		9E16A33617E97952006DCD04 /* chart.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E16A33517E97952006DCD04 /* chart.png */; };
 		9E42213417D464F100F18A5C /* loaninfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E42213317D464F100F18A5C /* loaninfo.xib */; };
+		9E5D592317F235E7000CA229 /* help.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5D592117F235E7000CA229 /* help.png */; };
+		9E5D592417F235E7000CA229 /* help@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5D592217F235E7000CA229 /* help@2x.png */; };
+		9E5D592F17F2394D000CA229 /* dashboard-home.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5D592D17F2394D000CA229 /* dashboard-home.png */; };
+		9E5D593017F2394D000CA229 /* dashboard-home@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5D592E17F2394D000CA229 /* dashboard-home@2x.png */; };
+		9E5D593317F239F1000CA229 /* dashboard-profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5D593117F239F1000CA229 /* dashboard-profile.png */; };
+		9E5D593417F239F1000CA229 /* dashboard-profile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5D593217F239F1000CA229 /* dashboard-profile@2x.png */; };
 		9E64514117E76C7900B70C15 /* iphone3.5-signup.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E64514017E76C7900B70C15 /* iphone3.5-signup.xib */; };
 		9E718D6517DE57A900291228 /* dashboard-noinfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E718D6417DE57A900291228 /* dashboard-noinfo.xib */; };
 		9E718D6817DE5A4C00291228 /* couple-dashboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E718D6617DE5A4C00291228 /* couple-dashboard.png */; };
@@ -152,8 +156,6 @@
 		9E066EEA17E65EBF00524961 /* condo-selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "condo-selected@2x.png"; sourceTree = "<group>"; };
 		9E066EEB17E65EBF00524961 /* sfh-homeinfo-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sfh-homeinfo-selected.png"; sourceTree = "<group>"; };
 		9E066EEC17E65EBF00524961 /* sfh-homeinfo-selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sfh-homeinfo-selected@2x.png"; sourceTree = "<group>"; };
-		9E108AA017D05CFF0071AAF4 /* help.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = help.png; sourceTree = "<group>"; };
-		9E108AA117D05CFF0071AAF4 /* help@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "help@2x.png"; sourceTree = "<group>"; };
 		9E108AA817D05FA40071AAF4 /* dashboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dashboard.png; sourceTree = "<group>"; };
 		9E108AA917D05FA40071AAF4 /* dashboard@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dashboard@2x.png"; sourceTree = "<group>"; };
 		9E108AAC17D0600F0071AAF4 /* monthlyexpenses.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = monthlyexpenses.xib; sourceTree = "<group>"; };
@@ -163,6 +165,12 @@
 		9E16A33017E97308006DCD04 /* logo_svl@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "logo_svl@2x.gif"; sourceTree = "<group>"; };
 		9E16A33517E97952006DCD04 /* chart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chart.png; sourceTree = "<group>"; };
 		9E42213317D464F100F18A5C /* loaninfo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = loaninfo.xib; sourceTree = "<group>"; };
+		9E5D592117F235E7000CA229 /* help.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = help.png; sourceTree = "<group>"; };
+		9E5D592217F235E7000CA229 /* help@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "help@2x.png"; sourceTree = "<group>"; };
+		9E5D592D17F2394D000CA229 /* dashboard-home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dashboard-home.png"; sourceTree = "<group>"; };
+		9E5D592E17F2394D000CA229 /* dashboard-home@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dashboard-home@2x.png"; sourceTree = "<group>"; };
+		9E5D593117F239F1000CA229 /* dashboard-profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dashboard-profile.png"; sourceTree = "<group>"; };
+		9E5D593217F239F1000CA229 /* dashboard-profile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dashboard-profile@2x.png"; sourceTree = "<group>"; };
 		9E64514017E76C7900B70C15 /* iphone3.5-signup.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "iphone3.5-signup.xib"; sourceTree = "<group>"; };
 		9E718D6417DE57A900291228 /* dashboard-noinfo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "dashboard-noinfo.xib"; sourceTree = "<group>"; };
 		9E718D6617DE5A4C00291228 /* couple-dashboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "couple-dashboard.png"; sourceTree = "<group>"; };
@@ -458,8 +466,6 @@
 				9E92963517D2F4B400B3DC44 /* location@2x.png */,
 				9E108AA817D05FA40071AAF4 /* dashboard.png */,
 				9E108AA917D05FA40071AAF4 /* dashboard@2x.png */,
-				9E108AA017D05CFF0071AAF4 /* help.png */,
-				9E108AA117D05CFF0071AAF4 /* help@2x.png */,
 				9E718D7217DE5E1900291228 /* lifestyle-beach.png */,
 				9E718D7317DE5E1900291228 /* lifestyle-beach@2x.png */,
 				9EFF2A3B17CF2D55007F3D10 /* appname.png */,
@@ -492,6 +498,12 @@
 				9ECCADB717F0E889001EAF4C /* lifestyle-beach-dash@2x.png */,
 				9ECCADB817F0E889001EAF4C /* sfh-dash.png */,
 				9ECCADB917F0E889001EAF4C /* sfh-dash@2x.png */,
+				9E5D592117F235E7000CA229 /* help.png */,
+				9E5D592217F235E7000CA229 /* help@2x.png */,
+				9E5D592D17F2394D000CA229 /* dashboard-home.png */,
+				9E5D592E17F2394D000CA229 /* dashboard-home@2x.png */,
+				9E5D593117F239F1000CA229 /* dashboard-profile.png */,
+				9E5D593217F239F1000CA229 /* dashboard-profile@2x.png */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -579,6 +591,7 @@
 				9EECBB9C17DDA55B00EA2E6A /* city.png in Resources */,
 				9EECBBA517DDA7F800EA2E6A /* interestrate@2x.png in Resources */,
 				9E92963317D2EF6000B3DC44 /* homeaddress.xib in Resources */,
+				9E5D593017F2394D000CA229 /* dashboard-home@2x.png in Resources */,
 				9EE82E6617E65DE000ED7E93 /* single-selected@2x.png in Resources */,
 				9EECBB9917DDA44800EA2E6A /* street@2x.png in Resources */,
 				9E9C804717DAF894004D8669 /* salary.png in Resources */,
@@ -612,9 +625,9 @@
 				9ED884F117DE680A00EA0651 /* lifestyle-shopping.png in Resources */,
 				9E9C804C17DAF932004D8669 /* savings@2X.png in Resources */,
 				9EECBB9817DDA44800EA2E6A /* street.png in Resources */,
+				9E5D593317F239F1000CA229 /* dashboard-profile.png in Resources */,
 				9E16A33117E97308006DCD04 /* logo_svl.gif in Resources */,
 				9ECCADBF17F0E889001EAF4C /* doubledownarrow@2x.png in Resources */,
-				9E108AA317D05CFF0071AAF4 /* help@2x.png in Resources */,
 				9EECBB9117DDA16F00EA2E6A /* couple@2x.png in Resources */,
 				9EE82E6417E65DE000ED7E93 /* couple-selected@2x.png in Resources */,
 				9E718D7517DE5E1900291228 /* lifestyle-beach@2x.png in Resources */,
@@ -625,6 +638,7 @@
 				9EECBBA017DDA72A00EA2E6A /* downpayment.png in Resources */,
 				9E16A33617E97952006DCD04 /* chart.png in Resources */,
 				9E718D6D17DE5CE400291228 /* sfh@2x.png in Resources */,
+				9E5D593417F239F1000CA229 /* dashboard-profile@2x.png in Resources */,
 				9E00681E17E9853500F389E1 /* logo_svl-complete.gif in Resources */,
 				9ED8850A17DE6D8700EA0651 /* surfing@2x.png in Resources */,
 				9ECCADBC17F0E889001EAF4C /* couple-dash.png in Resources */,
@@ -641,12 +655,13 @@
 				9E64514117E76C7900B70C15 /* iphone3.5-signup.xib in Resources */,
 				9E92963717D2F4B400B3DC44 /* location@2x.png in Resources */,
 				9EECBBA417DDA7F800EA2E6A /* interestrate.png in Resources */,
+				9E5D592417F235E7000CA229 /* help@2x.png in Resources */,
 				9ECCADC017F0E889001EAF4C /* downarrow.png in Resources */,
 				9EECBB9017DDA16F00EA2E6A /* couple.png in Resources */,
 				9EECBBA917DDA87800EA2E6A /* loantime@2x.png in Resources */,
 				9ED884ED17DE67A500EA0651 /* lifestyle-sports.png in Resources */,
-				9E108AA217D05CFF0071AAF4 /* help.png in Resources */,
 				9EFF2A3D17CF2D55007F3D10 /* appname.png in Resources */,
+				9E5D592F17F2394D000CA229 /* dashboard-home.png in Resources */,
 				9ECCADC217F0E889001EAF4C /* lifestyle-beach-dash.png in Resources */,
 				9EECBB6C17DD968800EA2E6A /* rent.png in Resources */,
 				9ED884EE17DE67A500EA0651 /* lifestyle-sports@2x.png in Resources */,
@@ -675,6 +690,7 @@
 				9EFF2A1117CF118B007F3D10 /* signin.xib in Resources */,
 				9E108AAB17D05FA40071AAF4 /* dashboard@2x.png in Resources */,
 				9EECBB7517DD977500EA2E6A /* otherexpenses@2x.png in Resources */,
+				9E5D592317F235E7000CA229 /* help.png in Resources */,
 				9ECCADC117F0E889001EAF4C /* downarrow@2x.png in Resources */,
 				9EECBB8017DD9B9500EA2E6A /* hoa.png in Resources */,
 				9ECCADBB17F0E889001EAF4C /* compare-dash@2x.png in Resources */,
