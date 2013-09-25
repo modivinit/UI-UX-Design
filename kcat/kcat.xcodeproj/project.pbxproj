@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		9E00681C17E9830B00F389E1 /* realtorcontact.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E00681B17E9830B00F389E1 /* realtorcontact.xib */; };
 		9E00681E17E9853500F389E1 /* logo_svl-complete.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9E00681D17E9853500F389E1 /* logo_svl-complete.gif */; };
+		9E00FAB717F351D200380997 /* help.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E00FAB617F351D200380997 /* help.xib */; };
+		9E00FABA17F3551A00380997 /* helpbox.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E00FAB817F3551A00380997 /* helpbox.png */; };
+		9E00FABB17F3551A00380997 /* helpbox@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E00FAB917F3551A00380997 /* helpbox@2x.png */; };
 		9E066EED17E65EBF00524961 /* condo-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EE917E65EBF00524961 /* condo-selected.png */; };
 		9E066EEE17E65EBF00524961 /* condo-selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EEA17E65EBF00524961 /* condo-selected@2x.png */; };
 		9E066EEF17E65EBF00524961 /* sfh-homeinfo-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E066EEB17E65EBF00524961 /* sfh-homeinfo-selected.png */; };
@@ -152,6 +155,9 @@
 /* Begin PBXFileReference section */
 		9E00681B17E9830B00F389E1 /* realtorcontact.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = realtorcontact.xib; sourceTree = "<group>"; };
 		9E00681D17E9853500F389E1 /* logo_svl-complete.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "logo_svl-complete.gif"; sourceTree = "<group>"; };
+		9E00FAB617F351D200380997 /* help.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = help.xib; sourceTree = "<group>"; };
+		9E00FAB817F3551A00380997 /* helpbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = helpbox.png; sourceTree = "<group>"; };
+		9E00FAB917F3551A00380997 /* helpbox@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "helpbox@2x.png"; sourceTree = "<group>"; };
 		9E066EE917E65EBF00524961 /* condo-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "condo-selected.png"; sourceTree = "<group>"; };
 		9E066EEA17E65EBF00524961 /* condo-selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "condo-selected@2x.png"; sourceTree = "<group>"; };
 		9E066EEB17E65EBF00524961 /* sfh-homeinfo-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sfh-homeinfo-selected.png"; sourceTree = "<group>"; };
@@ -323,6 +329,7 @@
 				9EFF2A3917CF29E4007F3D10 /* kcatintro-tax.xib */,
 				9E821DF117CFA822007DC9BE /* kcatintro-rvb.xib */,
 				9E821DF317CFAA92007DC9BE /* aboutyou.xib */,
+				9E00FAB617F351D200380997 /* help.xib */,
 				9E108AAC17D0600F0071AAF4 /* monthlyexpenses.xib */,
 				9E92962417D10D1700B3DC44 /* homeinfo.xib */,
 				9E92963217D2EF5F00B3DC44 /* homeaddress.xib */,
@@ -504,6 +511,8 @@
 				9E5D592E17F2394D000CA229 /* dashboard-home@2x.png */,
 				9E5D593117F239F1000CA229 /* dashboard-profile.png */,
 				9E5D593217F239F1000CA229 /* dashboard-profile@2x.png */,
+				9E00FAB817F3551A00380997 /* helpbox.png */,
+				9E00FAB917F3551A00380997 /* helpbox@2x.png */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -590,6 +599,7 @@
 				9ECCADBE17F0E889001EAF4C /* doubledownarrow.png in Resources */,
 				9EECBB9C17DDA55B00EA2E6A /* city.png in Resources */,
 				9EECBBA517DDA7F800EA2E6A /* interestrate@2x.png in Resources */,
+				9E00FABB17F3551A00380997 /* helpbox@2x.png in Resources */,
 				9E92963317D2EF6000B3DC44 /* homeaddress.xib in Resources */,
 				9E5D593017F2394D000CA229 /* dashboard-home@2x.png in Resources */,
 				9EE82E6617E65DE000ED7E93 /* single-selected@2x.png in Resources */,
@@ -618,6 +628,7 @@
 				9E066EF017E65EBF00524961 /* sfh-homeinfo-selected@2x.png in Resources */,
 				9E97F17C17DACC98006381AE /* menu@2x.png in Resources */,
 				9E718D7717DE5E6800291228 /* dashboard-pfinfo.xib in Resources */,
+				9E00FABA17F3551A00380997 /* helpbox.png in Resources */,
 				9E97F17B17DACC98006381AE /* menu.png in Resources */,
 				9E718D7417DE5E1900291228 /* lifestyle-beach.png in Resources */,
 				9E16A32E17E96939006DCD04 /* dashboard-1hcompare.xib in Resources */,
@@ -673,6 +684,7 @@
 				9ED8850517DE6AD800EA0651 /* lifestyle-food.png in Resources */,
 				9EECBB7917DD9A1C00EA2E6A /* sfh-homeinfo@2x.png in Resources */,
 				9E821DF217CFA822007DC9BE /* kcatintro-rvb.xib in Resources */,
+				9E00FAB717F351D200380997 /* help.xib in Resources */,
 				9EECBB8917DD9C7600EA2E6A /* homeprice@2x.png in Resources */,
 				9E92963617D2F4B400B3DC44 /* location.png in Resources */,
 				9E9C804B17DAF932004D8669 /* savings.png in Resources */,
