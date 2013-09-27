@@ -18,9 +18,9 @@
                     </items>
                 </navigationBar>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="GC4-1c-9E6">
-                    <rect key="frame" x="20" y="460" width="70" height="33"/>
+                    <rect key="frame" x="20" y="460" width="59" height="31"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
                     <state key="normal" title="Address"/>
                 </button>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dashboard-home.png" id="L7W-Mw-Sry">
@@ -133,6 +133,10 @@
                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                     <nil key="highlightedColor"/>
                 </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="flip.png" id="kVN-45-ETt">
+                    <rect key="frame" x="78" y="468" width="7" height="7"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
             </subviews>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
@@ -219,6 +223,7 @@
         <image name="besthomefeature.png" width="29" height="29"/>
         <image name="condo.png" width="40" height="40"/>
         <image name="dashboard-home.png" width="30" height="30"/>
+        <image name="flip.png" width="5" height="5"/>
         <image name="forward-icon.png" width="10" height="20"/>
         <image name="help.png" width="20" height="20"/>
         <image name="hoa.png" width="29" height="29"/>

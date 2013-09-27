@@ -30,9 +30,9 @@
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 </imageView>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rTx-bH-Dda">
-                    <rect key="frame" x="20" y="474" width="70" height="30"/>
+                    <rect key="frame" x="20" y="460" width="75" height="31"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
                     <state key="normal" title="Home Info"/>
                 </button>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="street.png" translatesAutoresizingMaskIntoConstraints="NO" id="mFn-vf-RhD">
@@ -87,6 +87,10 @@
                     </subviews>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                 </view>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="flip.png" translatesAutoresizingMaskIntoConstraints="NO" id="xfc-6w-Bd2">
+                    <rect key="frame" x="93" y="467" width="7" height="7"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
             </subviews>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
@@ -96,6 +100,7 @@
     <resources>
         <image name="city.png" width="29" height="29"/>
         <image name="dashboard.png" width="43" height="29"/>
+        <image name="flip.png" width="5" height="5"/>
         <image name="forward-icon.png" width="10" height="20"/>
         <image name="help.png" width="20" height="20"/>
         <image name="menu.png" width="25" height="20"/>
