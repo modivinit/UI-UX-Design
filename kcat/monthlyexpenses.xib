@@ -184,13 +184,10 @@
     <resources>
         <image name="back-icon.png" width="10" height="20"/>
         <image name="car.png" width="29" height="29"/>
-        <image name="car.png" width="29" height="29"/>
         <image name="dashboard.png" width="43" height="29"/>
-        <image name="help.png" width="30" height="29"/>
+        <image name="help.png" width="20" height="20"/>
         <image name="menu.png" width="25" height="20"/>
         <image name="otherexpenses.png" width="29" height="29"/>
-        <image name="otherexpenses.png" width="29" height="29"/>
-        <image name="rent.png" width="29" height="29"/>
         <image name="rent.png" width="29" height="29"/>
     </resources>
 </document>

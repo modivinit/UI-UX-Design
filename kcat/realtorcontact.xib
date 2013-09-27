@@ -94,7 +94,7 @@ Phone: (408) 297-(5638) </string>
         </button>
     </objects>
     <resources>
-        <image name="help.png" width="30" height="29"/>
+        <image name="help.png" width="20" height="20"/>
         <image name="logo_svl-complete.gif" width="100" height="72"/>
         <image name="logo_svl.gif" width="34" height="29"/>
         <image name="menu.png" width="25" height="20"/>

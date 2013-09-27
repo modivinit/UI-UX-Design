@@ -102,7 +102,7 @@
     <resources>
         <image name="chart.png" width="240" height="175"/>
         <image name="forward-icon.png" width="10" height="20"/>
-        <image name="help.png" width="30" height="29"/>
+        <image name="help.png" width="20" height="20"/>
         <image name="logo_svl.gif" width="34" height="29"/>
         <image name="menu.png" width="25" height="20"/>
         <image name="rent.png" width="29" height="29"/>
