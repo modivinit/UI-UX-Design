@@ -32,7 +32,7 @@
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="menu.png" id="uFC-ym-p2I">
-                    <rect key="frame" x="20" y="35" width="25" height="20"/>
+                    <rect key="frame" x="20" y="37" width="21" height="15"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 </imageView>
                 <view contentMode="scaleToFill" id="Upe-4M-qTh">
@@ -228,7 +228,7 @@
         <image name="help.png" width="20" height="20"/>
         <image name="hoa.png" width="29" height="29"/>
         <image name="homeprice.png" width="29" height="29"/>
-        <image name="menu.png" width="25" height="20"/>
+        <image name="menu.png" width="21" height="15"/>
         <image name="sfh-homeinfo.png" width="40" height="40"/>
         <image name="sfh.png" width="45" height="50"/>
     </resources>

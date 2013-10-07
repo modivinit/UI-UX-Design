@@ -17,12 +17,12 @@
                         <navigationItem title="Loan Info" id="nPt-jO-wvB"/>
                     </items>
                 </navigationBar>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="dashboard.png" translatesAutoresizingMaskIntoConstraints="NO" id="epV-5b-mFg">
-                    <rect key="frame" x="20" y="519" width="43" height="29"/>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="dashboard-home.png" translatesAutoresizingMaskIntoConstraints="NO" id="epV-5b-mFg">
+                    <rect key="frame" x="20" y="518" width="30" height="30"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="help.png" translatesAutoresizingMaskIntoConstraints="NO" id="ojD-oA-6Wi">
-                    <rect key="frame" x="270" y="519" width="30" height="29"/>
+                    <rect key="frame" x="270" y="523" width="20" height="20"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="menu.png" translatesAutoresizingMaskIntoConstraints="NO" id="75p-vQ-GyK">
@@ -185,7 +185,7 @@
         </view>
     </objects>
     <resources>
-        <image name="dashboard.png" width="43" height="29"/>
+        <image name="dashboard-home.png" width="30" height="30"/>
         <image name="downpayment.png" width="29" height="29"/>
         <image name="help.png" width="20" height="20"/>
         <image name="interestrate.png" width="29" height="29"/>

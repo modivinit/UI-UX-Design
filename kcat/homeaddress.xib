@@ -17,12 +17,12 @@
                         <navigationItem title="Home Address" id="gmd-aD-jwK"/>
                     </items>
                 </navigationBar>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="dashboard.png" translatesAutoresizingMaskIntoConstraints="NO" id="2na-AL-xKf">
-                    <rect key="frame" x="20" y="519" width="43" height="29"/>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="dashboard-home.png" translatesAutoresizingMaskIntoConstraints="NO" id="2na-AL-xKf">
+                    <rect key="frame" x="20" y="518" width="30" height="30"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="help.png" translatesAutoresizingMaskIntoConstraints="NO" id="Odz-w9-tds">
-                    <rect key="frame" x="270" y="519" width="30" height="29"/>
+                    <rect key="frame" x="270" y="523" width="20" height="20"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="menu.png" translatesAutoresizingMaskIntoConstraints="NO" id="x2e-zW-IPc">
@@ -70,7 +70,7 @@
                     <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                 </textField>
                 <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zRR-Mf-Z0D">
-                    <rect key="frame" x="209" y="474" width="91" height="30"/>
+                    <rect key="frame" x="209" y="460" width="91" height="30"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <subviews>
                         <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="forward-icon.png" translatesAutoresizingMaskIntoConstraints="NO" id="qLF-Qz-q7f">
@@ -99,7 +99,7 @@
     </objects>
     <resources>
         <image name="city.png" width="29" height="29"/>
-        <image name="dashboard.png" width="43" height="29"/>
+        <image name="dashboard-home.png" width="30" height="30"/>
         <image name="flip.png" width="5" height="5"/>
         <image name="forward-icon.png" width="10" height="20"/>
         <image name="help.png" width="20" height="20"/>

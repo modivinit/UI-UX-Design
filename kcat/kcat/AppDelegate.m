@@ -18,7 +18,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     UIViewController* controller = [[UIViewController alloc] init];
 
-    UIView *firstViewUIView = [[[NSBundle mainBundle] loadNibNamed:@"homeaddress"
+    UIView *firstViewUIView = [[[NSBundle mainBundle] loadNibNamed:@"homeinfo"
                                                              owner:self options:nil] objectAtIndex:0];
     [controller.view addSubview:firstViewUIView];
 
